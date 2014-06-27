@@ -1,0 +1,2 @@
+This is an analysis of strategies for the game of Mastermind, using a
+bundled fast Haskell Mastermind framework.
